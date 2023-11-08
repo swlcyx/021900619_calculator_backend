@@ -1,0 +1,15 @@
+{
+    "server_port": 10001,
+    "db": [
+        {
+            "alias": "history",
+            "db": "Calculator",
+            "host": "8.140.26.82"
+        },
+        {
+            "alias": "rate",
+            "db": "Calculator",
+            "host": "8.140.26.82"
+        }
+    ]
+}
